@@ -1,7 +1,8 @@
 <template>
-  <div class="skills">
-    Skills
+  <div class="app">
+    <Skills />
   </div>
+
 </template>
 
 <script>
@@ -11,7 +12,7 @@ export default {
   name: 'app',
   components: {
     Skills
-  }
+  } 
 }
 </script>
 
